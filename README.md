@@ -22,7 +22,7 @@ None at this time
 
 ## Support and contact details
 
-Contact Nicholas Jensen-Hay through Github at http://github.com/hreacon/
+If any contact is needed you can reach me at my email at cbkinor@gmail.com
 
 ## Technologies Used
 
