@@ -4,7 +4,7 @@ _
 ## Tutorials:
 
 * [Udemy asp.net core EF core with Angular 2/4](https://www.udemy.com/aspnet-core-angular/learn/v4/overview)
-    - By: Phil Wheeler
+    - By: Mosh Hamedani
 
 #### Completed by: Chris Kuiper
 
