@@ -9,11 +9,16 @@
 
 ## Description
 
-This tutorial is from Udemy walking me through building a web app using Visual Studio Code on an mbp - asp.net core, EF code first, trying to use postgrSql for my database and angularjs 2/4 for the front end.
+This tutorial is from Udemy walking me through building a web app using Visual Studio Code on an mbp - asp.net core, EF code first, with postgrSql for my database and angularjs 2/4 for the front end.
 
 ## Setup/Installation Requirements
 
-* None at this time as I am following along and will update as I progress.
+* Install postgreSql
+* Install pgAdmin
+* Clone repository
+* Open in VS Code
+* Restore packages
+* Run: dotnet ef database update
 
 ## Known Bugs
 
@@ -25,7 +30,12 @@ If any contact is needed you can reach me at my email at cbkinor@gmail.com
 
 ## Technologies Used
 
-Coming Soon!
+* VS Code on mbp
+* ASP.NET Core
+* EF Migrations
+* postgreSql
+* pgAdmin
+* Angular 2/4
 
 ### License
 
