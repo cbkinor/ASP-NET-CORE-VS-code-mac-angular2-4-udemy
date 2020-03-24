@@ -6,7 +6,6 @@
 * [Udemy asp.net core EF core with Angular 2/4](https://www.udemy.com/aspnet-core-angular/learn/v4/overview)
     - By: Mosh Hamedani
 
-#### Completed by: Chris Kuiper
 
 ## Description
 
@@ -40,7 +39,6 @@ If any contact is needed you can reach me at my email at cbkinor@gmail.com
 
 ### License
 
-Copyright (c) 2017 Chris Kuiper
 
 MIT License
 
